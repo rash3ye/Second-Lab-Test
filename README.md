@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# TEST LABS
+# TEST LABS - DECAGON
 
 ## Installation
 To setup the project
@@ -8,6 +8,3 @@ To setup the project
 - To run all test cases run ``` yarn jest ```
 
 =======
-# Second-Lab-Test
-Second Lab Test -Decagon
->>>>>>> e29abc5ecdd0b0632dbcaff6fdc84963ae2b3af3
